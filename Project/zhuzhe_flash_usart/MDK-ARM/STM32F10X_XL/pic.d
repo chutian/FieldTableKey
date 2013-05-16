@@ -1,0 +1,11 @@
+.\STM32F10X_XL\pic.o: ..\c\pic.c
+.\STM32F10X_XL\pic.o: ..\c\p1.c
+.\STM32F10X_XL\pic.o: ..\c\p2.c
+.\STM32F10X_XL\pic.o: ..\c\p3.c
+.\STM32F10X_XL\pic.o: ..\c\p4.c
+.\STM32F10X_XL\pic.o: ..\c\p5.c
+.\STM32F10X_XL\pic.o: ..\c\p6.c
+.\STM32F10X_XL\pic.o: ..\c\p7.c
+.\STM32F10X_XL\pic.o: ..\c\p8.c
+.\STM32F10X_XL\pic.o: ..\c\p9.c
+.\STM32F10X_XL\pic.o: ..\c\p10.c
